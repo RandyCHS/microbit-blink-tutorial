@@ -11,6 +11,8 @@ Blinks an LED at a given location
 animations.blink(0, 0, 100)
 ```
 
+## Examples
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
