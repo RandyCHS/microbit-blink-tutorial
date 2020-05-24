@@ -3,7 +3,7 @@
 
 ## Usage
 
-### blink #animationsblink
+### Blink #animationsblink
 
 Blinks an LED at a given location
 
