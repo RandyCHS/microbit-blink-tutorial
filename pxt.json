@@ -2,8 +2,7 @@
     "name": "microbit-blink-tutorial",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "radio": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
