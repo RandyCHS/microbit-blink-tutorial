@@ -5,7 +5,7 @@
 
 ### Blink #animationsblink
 
-Blinks an LED at a given location
+Blinks an LED at a given location.
 
 ```blocks
 animations.blink(0, 0, 100)
