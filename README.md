@@ -1,6 +1,16 @@
 
 > Open this page at [https://randychs.github.io/microbit-blink-tutorial/](https://randychs.github.io/microbit-blink-tutorial/)
 
+## Usage
+
+### blink #animationsblink
+
+Blinks an LED at a given location
+
+```blocks
+animations.blink(0, 0, 100)
+```
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
@@ -17,13 +27,6 @@ To edit this repository in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/randychs/microbit-blink-tutorial** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/randychs/microbit-blink-tutorial/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
